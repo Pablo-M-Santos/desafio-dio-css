@@ -7,7 +7,7 @@
 }
 
 .banner {
-  background-image: url(/desafio-dio-css-landing-page/assets/images/banner.png), linear-gradient(180deg, rgba(0, 0, 0, 0.9) 0%, rgb(1, 36, 44) 100%);
+  background-image: url(/desafio-dio-css/assets/images/banner.png), linear-gradient(180deg, rgba(0, 0, 0, 0.9) 0%, rgb(1, 36, 44) 100%);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -163,7 +163,7 @@
 
 .photo {
   height: 430px;
-  background-image: url(/desafio-dio-css-landing-page/assets/images/woman-code.png), linear-gradient(180deg, rgba(0, 0, 0, 0.9) 0%, rgb(1, 36, 44) 100%);
+  background-image: url(/desafio-dio-css/assets/images/woman-code.png), linear-gradient(180deg, rgba(0, 0, 0, 0.9) 0%, rgb(1, 36, 44) 100%);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
